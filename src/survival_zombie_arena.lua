@@ -1,4 +1,4 @@
--- Leaked by Ilyas_skidd
+-- Leaked by Ilyas_skidd [ original code: https://scriptblox.com/script/Survive-Zombie-Arena-Kill-Aura-Safe-Play-GUI-236247 ]
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
